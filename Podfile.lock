@@ -1,0 +1,16 @@
+PODS:
+  - ESTMusicIndicator (0.2.0)
+
+DEPENDENCIES:
+  - ESTMusicIndicator
+
+SPEC REPOS:
+  trunk:
+    - ESTMusicIndicator
+
+SPEC CHECKSUMS:
+  ESTMusicIndicator: 80a123b51a7de3caa44dc91829b9619185dad0f6
+
+PODFILE CHECKSUM: c556d30dd040e58185fa20d0a577da3c31118e4a
+
+COCOAPODS: 1.10.1
